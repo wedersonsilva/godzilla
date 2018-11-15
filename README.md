@@ -6,7 +6,7 @@ Created by Alisson Ricardo, Godzilla won battles into local sumo robot fights.
 
 It was donated to LabPRO and now is being updated by Celson Nakamura, Paulo Nascimento and me (Wederson Silva)
 
-# Robô Godzilla
+# Robô Godzilla [br]
 
 Um robô autônomo de batalha sumô chamado Godzilla!
 
